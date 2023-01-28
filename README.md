@@ -10,7 +10,7 @@ Desing your website for calculation using wireframe work.
 
 
 ### Step 2:
-Then to execute the wireframe work desing use html,css
+Then execute the wireframe work desing use html,css
 
 ## Step3:
 Use views.py to execute the coding in serverside.
